@@ -39,7 +39,7 @@
 </div>  
 
 <div style="display: inline_block"><br>  
-##
+
 
 <div>  
   <a href = "mailto:adriano.lima85@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
