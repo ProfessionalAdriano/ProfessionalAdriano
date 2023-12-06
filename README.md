@@ -4,8 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Olá, Eu sou o Adriano Lima
 
-- 🧑‍💼 Hoje trabalho com Oracle - PL/SQL 
-- 🧑‍🎓 Estou cursando MBA - Engenharia e Administração de Dados
+- 🧑‍💼 Atualmente trabalho com dados - estou como desenvolvedor Oracle PL/SQL 
+- 🧑‍🎓 Pós graduado MBA - Engenharia e Administração de Dados
+-  Estou em um momento de transição de carreira para engenharia de dados
 - 📱Contate-me e-mail: adriano.lima85@yahoo.com.br
 - 📱Contate-me e-mail: adrianolima095@gmail.com
 
