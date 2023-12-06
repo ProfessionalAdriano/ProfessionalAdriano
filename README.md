@@ -3,7 +3,7 @@
 - 🧑‍💼 Trabalho com dados e atualmente estou como desenvolvedor Oracle PL/SQL
 - 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistema - UniÍtalo
 - 🧑‍🎓 Pós Graduado - MBA em Engenharia e Administração de Dados - Uniesp
-- 🧑‍🎓 Estudande de engenharia de dados 
+- 🧑‍🎓 Estudante de engenharia de dados 
 - 🧑‍🎓 Estou em um momento de transição de carreira para área de engenharia de dados
 - 📱Contate-me e-mail: adriano.lima85@yahoo.com.br
 - 📱Contate-me e-mail: adrianolima095@gmail.com
