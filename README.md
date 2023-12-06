@@ -1,11 +1,14 @@
-<!---
+![image](https://github.com/ProfessionalAdriano/ProfessionalAdriano/assets/63374658/ad98e0f6-5dd9-468e-9d96-3998abfd0473)<!---
 ProfessionalAdriano/ProfessionalAdriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ## Olá, Eu sou o Adriano Lima
 
 - 🧑‍💼 Atualmente trabalho com dados - estou como desenvolvedor Oracle PL/SQL 
-- 🧑‍🎓 Pós graduado - MBA em Engenharia e Administração de Dados
+- 🧑‍🎓 Pós graduado - MBA em Engenharia e Administração de Dados - Uniesp
+- ![image](https://github.com/ProfessionalAdriano/ProfessionalAdriano/assets/63374658/7edafa1b-aba3-4b04-bdca-1db37f8c8b75)
+
+ Estudande de engenharia de dados 
 - 🧑‍🎓 Estou em um momento de transição de carreira para área de engenharia de dados
 - 📱Contate-me e-mail: adriano.lima85@yahoo.com.br
 - 📱Contate-me e-mail: adrianolima095@gmail.com
