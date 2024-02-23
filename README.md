@@ -1,9 +1,9 @@
 ## Olá, sou o Adriano Lima
 
 - 🧑‍💼 Trabalho com dados e atualmente estou como desenvolvedor Oracle PL/SQL
-- 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistema - UniÍtalo
+- 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistemas - UniÍtalo
 - 🧑‍🎓 Pós Graduado - MBA em Engenharia e Administração de Dados - Uniesp
-- 🧑‍🎓 Estudante de engenharia de dados 
+- 🧑‍🎓 Estudante de Engenharia de Dados 
 - 🧑‍🎓 Estou em um momento de transição de carreira para a área da engenharia de dados
 - 📱Contate-me e-mail: adriano.lima85@yahoo.com.br
 - 📱Contate-me e-mail: adrianolima095@gmail.com 
