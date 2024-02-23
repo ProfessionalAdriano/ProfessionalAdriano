@@ -1,4 +1,4 @@
-## Olá, Eu sou o Adriano Lima
+## Olá, sou o Adriano Lima
 
 - 🧑‍💼 Trabalho com dados e atualmente estou como desenvolvedor Oracle PL/SQL
 - 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistema - UniÍtalo
@@ -6,44 +6,52 @@
 - 🧑‍🎓 Estudante de engenharia de dados 
 - 🧑‍🎓 Estou em um momento de transição de carreira para a área da engenharia de dados
 - 📱Contate-me e-mail: adriano.lima85@yahoo.com.br
-- 📱Contate-me e-mail: adrianolima095@gmail.com
+- 📱Contate-me e-mail: adrianolima095@gmail.com 
  
-
-<div align="center">  
-  <a href="https://github.com/ProfessionalAdriano">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfessionalAdriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-</div>
-
-
-
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">          
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">           
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
-  <img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg">
-</div>  
-
 <div style="display: inline_block"><br>  
 
 
-<div>  
-  <a href = "mailto:adriano.lima85@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adriano-lima-724570185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
-</div>
-  
+## Stack
+
+### Programing Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)
+![PL/SQL](https://img.shields.io/badge/pl/sql-3670A0?style=for-the-badge&logo=PL/SQL&logoColor=ffdd54)
+
+<div style="display: inline_block"><br>  
+
+### Framework and tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![DockerCompose](https://img.shields.io/badge/docker%20compose-%230db7ed.svg?style=for-the-badge&logo=docker_compose&logoColor=white)
+![ApackeSpark](https://img.shields.io/badge/Apache%20Spark-%230db7ed.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![ApacheAirflow](https://img.shields.io/badge/Apache%20airflow-%230db7ed.svg?style=for-the-badge&logo=Apache%20airflow&logoColor=white)
+
+<div style="display: inline_block"><br>  
+
+### Databases
+
+![Oracle](https://img.shields.io/badge/%20oracle%20-CC2927?style=for-the-badge&logo=%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongoDB](https://img.shields.io/badge/mongoDB-3670A0?style=for-the-badge&logo=mongoDB&logoColor=ffdd54)
+
+<div style="display: inline_block"><br>  
+
+### Linux Distro
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<div style="display: inline_block"><br>  
+ 
+### Cloud Providers
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<div style="display: inline_block"><br>  
+
+ ### Business Software
+ ![jira](https://img.shields.io/badge/jira-%23FF9900.svg?style=for-the-badge&logo=jira&logoColor=white)
+ ![confluence](https://img.shields.io/badge/confluence-%23FF9900.svg?style=for-the-badge&logo=confluence&logoColor=white)
+ 
+ ![payware](https://img.shields.io/badge/payware-%23FF9900.svg?style=for-the-badge&logo=payware&logoColor=white)
+ ![totvs](https://img.shields.io/badge/totvs-%23FF9900.svg?style=for-the-badge&logo=totvs&logoColor=white)
+ ![Oracle%20ebs](https://img.shields.io/badge/Oracle%20ebs-%23FF9900.svg?style=for-the-badge&logo=Oracle%20ebs&logoColor=white)
+ 
